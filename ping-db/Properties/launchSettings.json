@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ping-db": {
+      "commandName": "Project",
+      "commandLineArgs": "--payload-size 1000 --connection-string \"Server=localhost;Database=test;User Id=root;Password=test;\""
+    }
+  }
+}
