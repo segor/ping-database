@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.7.9" />
     <PackageReference Include="MySqlConnector" Version="0.56.0" />
-    <PackageReference Include="Npgsql" Version="4.0.7" />
+    <PackageReference Include="Npgsql" Version="4.0.14" />
     <PackageReference Include="ReadLine" Version="2.0.1" />
     <PackageReference Include="System.CommandLine.DragonFruit" Version="0.3.0-alpha.19317.1" />
     <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
